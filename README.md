@@ -1,3 +1,3 @@
-# Einfach SQL-Anweisungen für eine Test-DB
+# Einfach MSSQL-Anweisungen fÃ¼r eine Test-DB
 
     Umgang mit GIT!
